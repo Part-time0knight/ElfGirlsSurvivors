@@ -1,6 +1,9 @@
 # ElfGirlsSurvivors
 
-Тестовое задание для Saber Interactive
+Тестовое задание для Saber Interactive.
+## Управление
+- **wasd** передвижение
+- **Space** рывок
 
 ## Стэк
 - **Unity**
